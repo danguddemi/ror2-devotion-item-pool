@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace ExamplePlugin
+namespace DevotionItemPoolPlugin
 {
     internal static class Log
     {
